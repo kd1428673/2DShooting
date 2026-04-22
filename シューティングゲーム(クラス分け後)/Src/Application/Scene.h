@@ -34,6 +34,7 @@ public:
 
 	C_Enemy* GetEnemy();
 
+	int m_h;
 
 private:
 
